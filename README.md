@@ -1,2 +1,4 @@
-# TC-Found-Bugs
-A collection of bugs ive found
+# Found Bugs
+A collection of interesting bugs ive found
+
+Head over to the wiki page to see them!
